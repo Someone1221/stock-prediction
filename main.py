@@ -7,7 +7,6 @@ from os import path
 from datetime import datetime
 
 # Data Fetcher
-import pandas_datareader as web
 import pandas as pd
 
 # Numerical
